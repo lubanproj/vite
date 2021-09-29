@@ -55,3 +55,4 @@ See [Contributing Guide](https://github.com/vitejs/vite/blob/main/CONTRIBUTING.m
 ## License
 
 MIT
+ISC
